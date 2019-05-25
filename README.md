@@ -1,9 +1,9 @@
-# TalpiotNLP
+# NLP for Talpiot
 
 ## Installations
 The exercises you will be given during this mini-course will be given as Jupyter notebooks, that we recommend implementing on Google Colab. You are highly advised to get yourself acquainted with the keyboard shortcuts, it will make your life much easier. 
 
-## Syllabus
+## Agenda
 
 The following table contains the general agenda of our mini-course. Week 0 lists several prerequisites, namely, subjects we recommend you get yourself familiar with before tending to the more advanced material.
 
