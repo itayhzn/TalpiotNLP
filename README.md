@@ -9,7 +9,7 @@ The following table contains the general agenda of our mini-course. Week 0 lists
 
 |  Week  | Subjects | Materials | Exercises | Dataset URL |
 | :---: | --- | --- | --- | --- |
-| 0 | Python | 1. Stanfords CS231N [tutorial](http://cs231n.github.io/python-numpy-tutorial/) <br> 2. [Python for DS](Day%200/1%20Python/Python_Basic_Concepts.ipynb) |  |
+| 0 | Python | 1. Stanfords CS231N [tutorial](http://cs231n.github.io/python-numpy-tutorial/) |  |
 | 0 | Numpy | 1. Stanfords CS231N [tutorial](http://cs231n.github.io/python-numpy-tutorial/) (Pay extra attention to indexing, slicing, and **broadcasting**)  | 1. [Numpy-100](https://github.com/rougier/numpy-100) |
 | 0 | Linear Algebra | 1. Stanford's CS229 [review](http://cs229.stanford.edu/section/cs229-linalg.pdf). | |
 | 0 | Probability and Statistics | 1. Stanford's CS229 [review](http://cs229.stanford.edu/section/cs229-prob.pdf) | |
