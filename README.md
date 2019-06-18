@@ -16,8 +16,8 @@ The following table contains the general agenda of our mini-course. Week 0 lists
 | 0 | Tensorflow |  | 1. [Tensorflow basics](tensorflow) <br> 2. [Implementing a NN in Tensorflow](tensorflow) | |
 | 1 | RNNs and LSTMs | 1. [CS231n lecture 10](https://www.youtube.com/watch?v=6niqTuYFZLQ) | 1. Character based language model: [Text Generation using RNN](lstm): do Part I of the exercise | Any set of documents of your choice, <br> e.g. Harry Potter, LoTR, Eminem's songs |
 | 1 | Word embeddings |  | 1. [Write your own Word2Vec](word-embeddings) <br> 2. Word-based language model: [Text Generation using RNN](lstm): do Part II of the exercise | Any set of documents of your choice, <br> e.g. Harry Potter, LoTR, Eminem's songs |
-| 2 | Sentiment Analysis | | 1. [Sentiment Analysis exercise]() | [IMDB reviews](https://www.kaggle.com/iarunava/imdb-movie-reviews-dataset) |
-| 2 | NER | | 1. [NER exercise]() | [CoNLL 2003](ner/data) |
+| 2 | Sentiment Analysis | | 1. [Sentiment Analysis exercise](sentiment-analysis) | [IMDB reviews](https://www.kaggle.com/iarunava/imdb-movie-reviews-dataset) |
+| 2 | NER | | 1. [NER exercise](ner) | [CoNLL 2003](ner/data) |
 | 2 | Image Captioning | 1. Use [CS231n lecture 10](https://www.youtube.com/watch?v=6niqTuYFZLQ) for inspiration | 1. Image Captioning exercise: Do questions Q1 and Q2 from [CS231n's exercise](http://cs231n.github.io/assignments2019/assignment3/) | COCO (in the zipped folder) |
 
 
